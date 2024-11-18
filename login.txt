@@ -1,0 +1,3 @@
+admin1 kasir1
+admin2 kasir2
+admin3 kasir3
